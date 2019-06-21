@@ -1,0 +1,11 @@
+.banner {
+	background-image: url('images/tshirt.jpg');
+	background-size: cover;
+	background-position: bottom;
+	height: 70vh;
+}
+
+#colored-image {
+	height: 200px;
+	width: 300px;
+}
