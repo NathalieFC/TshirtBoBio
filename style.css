@@ -1,11 +1,19 @@
 .banner {
-	background-image: url('Images/tshirt.jpg');
+	background-image: url('Images/pic8.jpg');
 	background-size: cover;
-	background-position: bottom;
-	height: 70vh;
+	background-position: top;
+	height: 75vh;
 }
 
 #colored-image {
 	height: 200px;
 	width: 300px;
+
 }
+
+#img-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
